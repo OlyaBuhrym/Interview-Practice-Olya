@@ -1,4 +1,4 @@
-package cthms.runners;
+package CTHMS.runners;
 
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
